@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "led_a")(type "Legacy")(uri "${KIPRJMOD}/led_a.lib")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "${KIPRJMOD}/led.kicad_sym")(options "")(descr ""))
+)
