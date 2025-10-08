@@ -30,5 +30,8 @@ etaoin_rinabot2
 ## 3DCADデータ
 
 3DCADデータは以下のURLで公開しています。
+Google Chromeでは表示できないことがあるようです。
+Microsoft Edgeで閲覧可能であることを確認しています。
 
-https://a360.co/4jU0iow
+https://a360.co/4q07Nhn
+
