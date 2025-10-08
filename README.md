@@ -31,4 +31,4 @@ etaoin_rinabot2
 
 3DCADデータは以下のURLで公開しています。
 
-https://t.co/KyoC187Zxf
+https://a360.co/4jU0iow
